@@ -1,6 +1,6 @@
-CreateRemoteThread DLL injector plus loader by TheSmartOne1#2409
+CreateRemoteThread DLL injector plus TRINITYSEAL loader by TheSmartOne1#2409
 
-This Loader Uses TrinitySeal
+Again This Loader Uses TrinitySeal
 
 The DLL is embeded in resources so no download link needed. Change resource as needed.
 
