@@ -1,4 +1,4 @@
-CreateRemoteThread DLL injector plus TRINITYSEAL loader by TheSmartOne1#2409
+CreateRemoteThread DLL injector plus TRINITYSEAL loader by TheSmartOne1#0069
 
 Again This Loader Uses TrinitySeal
 
